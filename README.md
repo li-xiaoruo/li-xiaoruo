@@ -13,5 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **Open an issue or connect via GitHub**
 - 😄 Pronouns: **she/her**
 - ❤️ Like: **A pure white Munchkin cat named Yuanbao (元宝)**
-- ⚡ Fun fact: **I am mysterious**
---
+- ⚡ Fun fact: **I am mysterious~~~**
+
