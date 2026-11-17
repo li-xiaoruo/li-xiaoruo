@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+--
 **li-xiaoruo/li-xiaoruo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: **she/her**
 - ❤️ Like: **A pure white Munchkin cat named Yuanbao (元宝)**
 - ⚡ Fun fact: **I am mysterious**
--->
+--
